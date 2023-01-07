@@ -11,7 +11,6 @@ import com.gvfs.payrollapi.services.exceptions.ObjectNotFoundException;
 
 import feign.FeignException;
 import lombok.RequiredArgsConstructor;
-import lombok.var;
 import lombok.extern.slf4j.Slf4j;
 
 @RequiredArgsConstructor
